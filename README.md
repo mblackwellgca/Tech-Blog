@@ -1,9 +1,9 @@
 ![Github license](https://img.shields.io/badge/license-MIT-blueviolet.svg)
 
 # Tech-Blog
-    Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies.
-    This application is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
-    
+    Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. 
+    This application is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. 
+        
 ## Live Links
 * 📽️ Heroku: 
 * 🎥 Github: https://mblackwellgca.github.io/Tech-Blog/
@@ -14,7 +14,7 @@
     I WANT a CMS-style blog site
     SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
-    This app was designed for all techies to be able to have a place to go to blog ideas and comment on others post.
+    This app was designed for all techies to be able to have a place to go to blog ideas and comment on others post. 
     This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## Installation
@@ -23,8 +23,8 @@
     You’ll also need the [dotenv package](https://www.npmjs.com/package/dotenv) to use environment variables, the [bcrypt package](https://www.npmjs.com/package/bcrypt) to hash passwords, and the [express-session](https://www.npmjs.com/package/express-session) and [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize) packages to add authentication.
 
 **Note**: 
-    The [express-session](https://www.npmjs.com/package/express-session) package stores the session data on the client in a cookie. When you are idle on the site for more than a set time, the cookie will expire and you will be required to log in again to start a new session. This is the default behavior and you do not have to do anything to your application other than implement the npm package.
-   
+    The [express-session](https://www.npmjs.com/package/express-session) package stores the session data on the client in a cookie. When you are idle on the site for more than a set time, the cookie will expire and you will be required to log in again to start a new session. This is the default behavior and you do not have to do anything to your application other than implement the npm package. 
+
 ## Criteria
     GIVEN a CMS-style blog site
     * WHEN I visit the site for the first time
