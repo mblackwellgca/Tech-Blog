@@ -14,8 +14,8 @@ AS A developer who writes about tech
 * I WANT a CMS-style blog site
     * SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
-    * This app was designed for all techies to be able to have a place to go to blog ideas and comment on others post.
-    * This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+* This app was designed for all techies to be able to have a place to go to blog ideas and comment on others post.
+* This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## Installation
 * This application’s folder structure must follow the Model-View-Controller paradigm. You’ll need to use the [express-handlebars](https://www.npmjs.com/package/express-handlebars) package to implement Handlebars.js for your Views, use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect to a MySQL database for your Models, and create an Express.js API for your Controllers.
