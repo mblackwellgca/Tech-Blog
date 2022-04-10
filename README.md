@@ -6,8 +6,8 @@
     
 ## Live Links
 * 📽️ Heroku: 
-* 🎥 Github:
-* 🌍 Repository: 
+* 🎥 Github: https://mblackwellgca.github.io/Tech-Blog/
+* 🌍 Repository: https://github.com/mblackwellgca/Tech-Blog
 
 ## Description
     AS A developer who writes about tech
@@ -62,8 +62,8 @@
 
 ## Usage
 The following images show the applications functionality:
-![Demo Screenshot](./public/images/.png)
-![Demo Screenshot](./public/images/.png)
+![Demo Screenshot](./public/images/dash.png)
+![Demo Screenshot](./public/images/home.png)
 
 ## Credits
     * 🏫 Sandra Smith
